@@ -7,6 +7,11 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Ninja");
+            Console.WriteLine("Hello Ninja");
+            Console.WriteLine("Hello Ninja");
+            Console.WriteLine("Hello Ninja");
+            Console.WriteLine("Hello Ninja");
         }
     }
 }
